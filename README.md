@@ -25,13 +25,13 @@
 
 ## Tools
 
-1. [Aptosphere]()
-2. [Saber Labs]()
-3. [Paymagic]()
-4. [Aptosscan]()
-5. [Dapptos View]()
+1. [Aptosphere](https://www.aptosphere.com/)
+2. [Saber Labs](https://saberlabs.org/)
+3. [Paymagic](https://www.paymagic.xyz/)
+4. [Aptosscan](https://forum.aptoslabs.com/t/blockchain-browser-project-seeks-cooperation-aptosscan-com/944)
+5. [Dapptos View](https://twitter.com/dapptos)
 
-## Defi&Dex 
+## Defi&Dex
 
 1. [Pontem Network](https://pontem.network/)
 2. [Zaptos](https://twitter.com/ZaptosFinance)
@@ -48,10 +48,24 @@
 13. [Protagonist](https://twitter.com/ProtagonistXYZ)
 
 
-
 ## NFT
 
+1. [Topaz](https://www.topaz.so/)
+2. [Clone](https://twitter.com/CloneProtocol)
 
+## Wallet
+
+1. [Fewcha Wallet](https://fewcha.app/)
+2. [Martian](https://martianwallet.xyz/)
+3. [ONTO](https://onto.app/)
+
+## Aggregator
+
+1. [Hippo Labs](https://medium.com/@hippolabs)
+
+## Privacy
+
+1. [Nutrios](https://www.nutrios.co/)
 
 
 ## Support
