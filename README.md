@@ -1,5 +1,10 @@
-<div align="center">
+  <div align="center">
+
   # awesome-aptos
+  </div>
+
+
+<div align="center">
   <a href="https://awesome.re">
    <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
