@@ -1,10 +1,10 @@
-# awesome-aptos
+<center># awesome-aptos</center>
 
 <div align="center">
   <a href="https://awesome.re">
    <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
-  <p>A curated list of awesome developer tools for aptos </p>
+  <p>A list of awesome ecological project for aptos </p>
 </div>
 
 ## Contents
